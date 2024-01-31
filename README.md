@@ -1,4 +1,4 @@
-# 여행 보험 패캐지 상품 구매 예측(Travel Insurance Prediction)
+# 여행 보험 패키지 상품 구매 예측(Travel Insurance Prediction)
 
 <code><image height = "400"
 src=https://github.com/siilver94/Travel-insurance-prediction/assets/57824945/249884b1-acc5-4dc8-9834-20ab3e1c2794></code>
