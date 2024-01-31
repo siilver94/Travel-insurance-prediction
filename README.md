@@ -7,7 +7,7 @@ src=https://github.com/siilver94/Travel-insurance-prediction/assets/57824945/249
 
 ## 프로젝트 소개
 
-과거 고객 이력을 기반으로 여행 보험 구매 여부를 예측하는 프로젝트 입니다.
+과거 고객 이력을 기반으로 여행 보험 구매 여부를 예측하는 프로젝트입니다.
 
 <br/>
 
@@ -17,6 +17,9 @@ src=https://github.com/siilver94/Travel-insurance-prediction/assets/57824945/249
    
 - 여행 보험 회사의 2019년 고객 데이터베이스로부터 데이터 추출
 - 약 2000명의 고객에 대한 정보
+  
+<br/>
+
   
 **2. 데이터 Feafures**
 
@@ -63,9 +66,13 @@ src=https://github.com/siilver94/Travel-insurance-prediction/assets/57824945/249
 
 **라이브러리:** `Scikit-learn`, `Plotly`
 
+
+<br/>
+
+
 ### 평가 지표
 
-**accuracy_score:** 모델의 전체 예측 정확도
+`accuracy_score:` 모델의 전체 예측 정확도
 
 <br/>
 
